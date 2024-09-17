@@ -45,7 +45,7 @@ def birthday_animation():
 
 def play_birthday_tune():
     pygame.mixer.init()
-    pygame.mixer.music.load("C:/Users/mouaz/Downloads/Project X/Forbidden folder/i said forbidden/fuck u/y2mate.com -  2022.mp3")  
+    pygame.mixer.music.load("C:/Users/mouaz/Downloads/Sunponise-main/Project X/Forbidden folder/i said forbidden/fuck u/y2mate.com -  2022.mp3")  
     pygame.mixer.music.play()
 
     time.sleep(200)
